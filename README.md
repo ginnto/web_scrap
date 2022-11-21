@@ -1,3 +1,3 @@
 # web_scrap
 codes
-some web scraping code to filter jobs from infopark and technopark 
+web scraping code for filter jobs from infopark and technopark websites and save to text file.
